@@ -1,0 +1,6 @@
+{
+  "name": "SolarSphere Premium",
+  "description": "An ultra-premium, Awwwards-inspired landing page hero section for solar energy solutions, featuring cinematic views, interactive 3D structures, and flowing glass architectures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
